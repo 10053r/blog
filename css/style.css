@@ -125,7 +125,6 @@ body,
 body {
   background: #eee;
   font: 14px "Source Sans Pro";
-  color: #000;
   -webkit-text-size-adjust: 100%;
 }
 .outer {
@@ -205,6 +204,7 @@ body {
 .article-inner,
 .archive-article-inner {
   background: #fff;
+  color: #555;
   -webkit-box-shadow: 1px 2px 3px #ddd;
   box-shadow: 1px 2px 3px #ddd;
   border: 1px solid #ddd;
