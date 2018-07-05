@@ -125,6 +125,7 @@ body,
 body {
   background: #eee;
   font: 14px "Source Sans Pro";
+  color: #555;
   -webkit-text-size-adjust: 100%;
 }
 .outer {
