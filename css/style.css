@@ -552,7 +552,7 @@ a.article-title:hover {
   color: #258fb8;
 }
 .article-entry {
-  color: #555;
+  color: #31516a;
   padding: 0 20px;
 }
 .article-entry:before,
@@ -623,7 +623,7 @@ a.article-title:hover {
   padding: 10px 0;
 }
 .article-entry blockquote {
-  font-family: "Source Sans Pro", sans-serif;
+  font-family: "Source Sans Pro";
   font-size: 1.4em;
   margin: 1.6em 20px;
   text-align: center;
