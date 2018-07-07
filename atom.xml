@@ -6,7 +6,7 @@
   <link href="/blog/atom.xml" rel="self"/>
   
   <link href="http://10053r.cf/blog/"/>
-  <updated>2018-07-07T13:28:08.392Z</updated>
+  <updated>2018-07-07T13:45:04.429Z</updated>
   <id>http://10053r.cf/blog/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="http://10053r.cf/blog/2018/07/07/Piano-for-Dummies/"/>
     <id>http://10053r.cf/blog/2018/07/07/Piano-for-Dummies/</id>
     <published>2018-07-07T13:27:02.000Z</published>
-    <updated>2018-07-07T13:28:08.392Z</updated>
+    <updated>2018-07-07T13:45:04.429Z</updated>
     
-    <content type="html"><![CDATA[<p>Wichtige Grundlagen einfach erklärt<br><div class="row">    <embed src="http://www.responder.esy.es/files/Piano%20for%20Dummies.pdf" width="100%" height="550" type="application/pdf"></div></p>]]></content>
+    <content type="html"><![CDATA[<p>Wichtige Grundlagen einfach erklärt<br><div class="row">    <embed src="/blog/files/Piano%20for%20Dummies.pdf" width="100%" height="550" type="application/pdf"></div></p>]]></content>
     
     <summary type="html">
     
@@ -45,9 +45,9 @@
     <link href="http://10053r.cf/blog/2018/07/06/DJing-for-Dummies/"/>
     <id>http://10053r.cf/blog/2018/07/06/DJing-for-Dummies/</id>
     <published>2018-07-06T13:37:22.000Z</published>
-    <updated>2018-07-07T13:16:06.975Z</updated>
+    <updated>2018-07-07T13:44:51.125Z</updated>
     
-    <content type="html"><![CDATA[<p>All you need to know about<br><div class="row">    <embed src="http://www.responder.esy.es/files/DJing%20for%20Dummies.pdf" width="100%" height="550" type="application/pdf"></div></p>]]></content>
+    <content type="html"><![CDATA[<p>All you need to know about<br><div class="row">    <embed src="/blog/files/DJing%20for%20Dummies.pdf" width="100%" height="550" type="application/pdf"></div></p>]]></content>
     
     <summary type="html">
     
