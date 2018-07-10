@@ -6,7 +6,7 @@
   <link href="/blog/atom.xml" rel="self"/>
   
   <link href="http://10053r.cf/blog/"/>
-  <updated>2018-07-09T13:10:12.387Z</updated>
+  <updated>2018-07-08T18:13:32.773Z</updated>
   <id>http://10053r.cf/blog/</id>
   
   <author>
@@ -15,30 +15,6 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>KrawallJungE.LivE.</title>
-    <link href="http://10053r.cf/blog/09/07/2018/KrawallJungE-LivE/"/>
-    <id>http://10053r.cf/blog/09/07/2018/KrawallJungE-LivE/</id>
-    <published>2018-07-09T13:08:53.000Z</published>
-    <updated>2018-07-09T13:10:12.387Z</updated>
-    
-    <content type="html"><![CDATA[<p>Scheiß Egal Ich Feier!<br><div class="soundcloud-wrapper"><iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fuser-370338082%2Fkrawalljungelive-scheis-egal-ich-feier&amp;auto_play=false&amp;hide_related=true&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe></div></p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          
-        
-      
-    
-    </summary>
-    
-    
-  </entry>
   
   <entry>
     <title>Drum rhythm spaces</title>
@@ -120,6 +96,30 @@
     <updated>2018-07-07T13:42:59.828Z</updated>
     
     <content type="html"><![CDATA[<p>Nice whitepaper which I found on the Internet today<br><div class="row">    <embed src="/blog/files/House_Techno_Produktion_Diplomarbeit_Jan_Michael_Kuehn.pdf" width="100%" height="550" type="application/pdf"></div></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello Earth</title>
+    <link href="http://10053r.cf/blog/05/07/2018/hello-earth/"/>
+    <id>http://10053r.cf/blog/05/07/2018/hello-earth/</id>
+    <published>2018-07-05T00:38:24.989Z</published>
+    <updated>2018-07-05T00:38:24.953Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://10053r.cf/blog">Backstage</a>!</p><p>This is my very first post. Check <a href="https://10053r.cf">Main Stage</a> for more info.<br>If you get any problems when reading this blog, you can ask me on <a href="https://github.com/10053r/blog/issues" target="_blank" rel="noopener">GitHub</a>.</p>]]></content>
     
     <summary type="html">
     
