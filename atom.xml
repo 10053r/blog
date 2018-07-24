@@ -6,7 +6,7 @@
   <link href="/blog/atom.xml" rel="self"/>
   
   <link href="http://10053r.cf/blog/"/>
-  <updated>2018-07-23T03:15:53.733Z</updated>
+  <updated>2018-07-24T10:13:40.810Z</updated>
   <id>http://10053r.cf/blog/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>YouTube stream connection test</title>
+    <link href="http://10053r.cf/blog/24/07/2018/YouTube-stream-connection-test/"/>
+    <id>http://10053r.cf/blog/24/07/2018/YouTube-stream-connection-test/</id>
+    <published>2018-07-24T10:01:00.000Z</published>
+    <updated>2018-07-24T10:13:40.810Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="Troubleshooting-of-internet-connection"><a href="#Troubleshooting-of-internet-connection" class="headerlink" title="Troubleshooting of internet connection"></a>Troubleshooting of internet connection</h2><p>Remote public Wi-Fi Hotspot connection stability issues  </p><div class="owl-media owl-video owl-youtube"><iframe src="//www.youtube.com/embed/DR3CCUUL-Uc" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen></iframe></div><ul><li style="list-style: none"><input type="checkbox" checked> Internet connection established</li><li style="list-style: none"><input type="checkbox" checked> Live session started</li><li style="list-style: none"><input type="checkbox"> Output level checked</li><li style="list-style: none"><input type="checkbox"> Monitoring turned on</li></ul><link rel="stylesheet" href="/blog/css/spoiler.css" type="text/css"><script src="/blog/js/spoiler.js" type="text/javascript" async></script>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>Icecast2 ffmpeg streaming oneliner</title>
@@ -96,30 +120,6 @@
     <updated>2018-07-13T23:38:09.702Z</updated>
     
     <content type="html"><![CDATA[<h2 id="Copyright-issues"><a href="#Copyright-issues" class="headerlink" title="Copyright issues"></a>Copyright issues</h2><p>First idea was about using that clip as FB page cover, but Facebook just muted it due to copyright issues.<br>Dunno why, rly :] Okay, let keep it here</p><div class="owl-media owl-video owl-youtube"><iframe src="//www.youtube.com/embed/_kLAKILYpmM" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen></iframe></div><p><em>Audacity + Blender + 30min of my life</em></p><link rel="stylesheet" href="/blog/css/spoiler.css" type="text/css"><script src="/blog/js/spoiler.js" type="text/javascript" async></script>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          
-        
-      
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>The Euclidean Algorithm Generates Traditional Musical Rhythms</title>
-    <link href="http://10053r.cf/blog/12/07/2018/The-Euclidean-Algorithm-Generates-Traditional-Musical-Rhythms/"/>
-    <id>http://10053r.cf/blog/12/07/2018/The-Euclidean-Algorithm-Generates-Traditional-Musical-Rhythms/</id>
-    <published>2018-07-12T01:43:53.000Z</published>
-    <updated>2018-07-12T01:48:50.332Z</updated>
-    
-    <content type="html"><![CDATA[<p>Euclidean Rhythms in Traditional World Music<br><div class="spoiler collapsed"><div class="spoiler-title">PDF</div><div class="spoiler-content"><div class="row"><br>   <embed src="/blog/files/banff.pdf" width="100%" height="550" type="application/pdf"><br></div></div></div></p><link rel="stylesheet" href="/blog/css/spoiler.css" type="text/css"><script src="/blog/js/spoiler.js" type="text/javascript" async></script>]]></content>
     
     <summary type="html">
     
