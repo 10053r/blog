@@ -6,7 +6,7 @@
   <link href="/blog/atom.xml" rel="self"/>
   
   <link href="http://10053r.cf/blog/"/>
-  <updated>2018-07-24T13:01:42.825Z</updated>
+  <updated>2018-07-25T14:33:03.949Z</updated>
   <id>http://10053r.cf/blog/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>DnB Night live on Konduit</title>
+    <link href="http://10053r.cf/blog/25/07/2018/DnB-Night-live-on-Konduit/"/>
+    <id>http://10053r.cf/blog/25/07/2018/DnB-Night-live-on-Konduit/</id>
+    <published>2018-07-25T13:48:14.000Z</published>
+    <updated>2018-07-25T14:33:03.949Z</updated>
+    
+    <content type="html"><![CDATA[<p>Last 20min from 5hrs DnB set on <a href="https://konduit.live/" target="_blank" rel="noopener">Konduit.live</a></p><div class="owl-media owl-video owl-youtube"><iframe src="//www.youtube.com/embed/4Tl5AV2G8AE" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen></iframe></div><p>Tested relaying on <a href="https://konduit.live/" target="_blank" rel="noopener">Konduit.live</a> from RTMP OBS streaming over YouTube.<br>This set cutted in 4 pieces due to connection interrupts and will be not published due to many dropped packets.<br>Everithing else was nice. Thanks to listeners and special guests like <strong>KraZ3D</strong> | <strong>danknug</strong> | <strong>RobJ</strong></p><link rel="stylesheet" href="/blog/css/spoiler.css" type="text/css"><script src="/blog/js/spoiler.js" type="text/javascript" async></script>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>YouTube stream connection test</title>
@@ -96,30 +120,6 @@
     <updated>2018-07-16T13:10:33.827Z</updated>
     
     <content type="html"><![CDATA[<p>Make your desktop a home recording studio<br><div class="spoiler collapsed"><div class="spoiler-title">PDF</div><div class="spoiler-content"><div class="row"><br>   <embed src="/blog/files/PC%20Recording%20Studios%20for%20Dummies.pdf" width="100%" height="550" type="application/pdf"><br></div></div></div></p><link rel="stylesheet" href="/blog/css/spoiler.css" type="text/css"><script src="/blog/js/spoiler.js" type="text/javascript" async></script>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          
-        
-      
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Facebook muted video clip</title>
-    <link href="http://10053r.cf/blog/14/07/2018/FB-muted-video-clip/"/>
-    <id>http://10053r.cf/blog/14/07/2018/FB-muted-video-clip/</id>
-    <published>2018-07-13T23:04:54.000Z</published>
-    <updated>2018-07-13T23:38:09.702Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="Copyright-issues"><a href="#Copyright-issues" class="headerlink" title="Copyright issues"></a>Copyright issues</h2><p>First idea was about using that clip as FB page cover, but Facebook just muted it due to copyright issues.<br>Dunno why, rly :] Okay, let keep it here</p><div class="owl-media owl-video owl-youtube"><iframe src="//www.youtube.com/embed/_kLAKILYpmM" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen></iframe></div><p><em>Audacity + Blender + 30min of my life</em></p><link rel="stylesheet" href="/blog/css/spoiler.css" type="text/css"><script src="/blog/js/spoiler.js" type="text/javascript" async></script>]]></content>
     
     <summary type="html">
     
